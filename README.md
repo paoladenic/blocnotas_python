@@ -22,4 +22,5 @@ Espero que esta aplicación de Bloc de Notas te sea útil y eficaz en tus tareas
 ¡Disfruta de escribir con facilidad y comodidad!
 
 ## Screenshots
-![Captura de pantalla 2023-09-14 001819](https://github.com/paoladenic/blocnotas_python/assets/126211693/436299d3-3860-413e-910e-de2c68885620)
+![bloc2](https://github.com/paoladenic/blocnotas_python/assets/126211693/08a9b71c-f085-4f58-9bc0-eeb3390d3e29)
+
